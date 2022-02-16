@@ -4,6 +4,7 @@ void dot(int w);
 
 int main(){
   int l,i;
+  system("clear");
   printf("how long? ");
   scanf("%i", &l);
   for(int i=0;i<l;i++){
